@@ -1,0 +1,2 @@
+# Analytics-and-Visualisation-for-Managers-and-Consultants
+https://app.powerbi.com/view?r=eyJrIjoiZTJhMWE1NDYtYTcyOC00MTllLTgzZGYtMDA4OTA0ZDIzNGNkIiwidCI6ImI5YmMzOTZiLTA4NzYtNDdkOS1hYWFkLWJhNDU1ZDk5MjdlYyJ9
